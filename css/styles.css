@@ -1,0 +1,53 @@
+body {
+font-family: Roboto, sans-serif;
+background-color: #F5F5F5;
+}
+
+/* logo */
+.logo {
+    font-family: Raleway, sans-serif;
+    color: #000000;
+    text-decoration: none;
+    }
+.accent {
+    color: #2196F3;
+}
+ 
+/* Links for blocks */
+.site-nav .link {
+    text-decoration: none;
+}
+
+/* Contacts */
+.contact-mail {
+    text-decoration: none;
+}
+ .contact-tel {
+    text-decoration: none;
+ }
+
+/* Maine content */
+/*Banner studio */
+.list {
+    list-style: none;
+}
+
+/*Peculiarities studio */
+
+
+/* what we are doing studio */
+
+/* Our team studio */
+
+/* Our works portfolio */
+/* List of filters button */
+.button-list {
+    list-style: none
+}
+
+/*list of our projects */
+.list .link {
+    text-decoration: none;
+}
+
+/*Footer with address & contacts */
