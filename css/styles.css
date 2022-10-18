@@ -80,6 +80,7 @@ color: var(--brand-color);
     color: #FFFFFF;
 }
 .hero-button {
+   font-family: Roboto, sans-serif;
    font-weight: 700;
    font-size: 16px;
    line-height: 1.88;
@@ -147,6 +148,7 @@ color: var(--brand-color);
     list-style: none;
 }
 .button-filter {
+    font-family: Roboto, sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 1.63;
@@ -224,3 +226,4 @@ color: var(--brand-color);
     .contactend-tel:focus {
      color: var(--brand-accent);
     }
+    
